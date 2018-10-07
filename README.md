@@ -1,4 +1,4 @@
-![](Images/fut.jpg)                                                                                               ![](Images/usysa.png)
+![](Images/fut.jpg) ![](Images/usysa.png)
 
 # Futsolo Project
 
