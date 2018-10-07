@@ -2,7 +2,8 @@
 
 # Futsolo Project
 
-**Purpose** – Develop a sales strategy by creating a database of Soccer Clubs and Tournaments from data scraped from the United States Youth Soccer Association website. Identify potential prospects and venues for sale of Futsolo™ Soccer product. 
+**Purpose** – Develop a sales strategy by creating a database of Soccer Clubs and Tournaments from data scraped from the United States Youth Soccer Association [website](https://www.usyouthsoccer.org/). Identify potential prospects and venues for sale of Futsolo™ Soccer product. 
+
 ![](Images/giphy.gif)
 
 
